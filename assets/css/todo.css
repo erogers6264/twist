@@ -3,3 +3,8 @@
     width: 480px;
     margin: 0 auto;
 }
+
+.completed {
+    color: #E0E0E0;
+    text-decoration: line-through;
+}
